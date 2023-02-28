@@ -6,6 +6,10 @@ public class A{
   int c=x+y;
     System.out.println(c);
   }
+    public void m2(){
+  int c=x+y;
+    System.out.println(c);
+  }
 
 
 }
