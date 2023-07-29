@@ -1,6 +1,7 @@
 public class C{
   public static void main(String[] args) {
      System.out.println("branch C");
+     System.out.println("branch D");
     int first = 10;
     int second = 20;
 
