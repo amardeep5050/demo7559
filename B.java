@@ -2,7 +2,7 @@ public class B{
 
 
   public static void main(String[] args) {
-System.out.println("AMAR");
+System.out.println("jadhav");
     
     int first = 10;
     int second = 20;
